@@ -235,9 +235,10 @@ a{
         color: black;
     }
 
-    .acknowledgement{
+    .contact-me{
         font-size: 20%;
         display: inline-block;
+        text-align: center;
     }
     
     .bottom-container{
