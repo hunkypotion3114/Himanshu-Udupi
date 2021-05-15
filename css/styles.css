@@ -236,7 +236,13 @@ a{
     }
 
     .acknowledgement{
-        font-size: 100%;
+        font-size: 20%;
+        display: inline-block;
+    }
+    
+    .bottom-container{
+        display: inline-block;
+        font-size: 10%;
     }
     
     /*COPYRIGHT AND ATTRIBUTION*/
