@@ -233,19 +233,7 @@ a{
     .tele-icon:hover+.tele-instruction{
         display: block;
         color: black;
-    }
-
-    .contact-me{
-        font-size: 20%;
-        display: inline-block;
-        text-align: center;
-    }
-    
-    .bottom-container{
-        display: inline-block;
-        font-size: 10%;
-    }
-    
+    }    
     /*COPYRIGHT AND ATTRIBUTION*/
 
 }
